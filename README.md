@@ -18,7 +18,7 @@
 
 Install Report App by first cloning this repository.
 
-Check out `requirements.txt` and install required files using `pip install -r /path/to/requirements.txt`
+Check out [requirements.txt](https://github.com/amanpanditap/Report-App/blob/main/requirements.txt) and install required files using `pip install -r /path/to/requirements.txt`
 
 Run using the command:
 ```bash
@@ -28,7 +28,7 @@ Run using the command:
     
 ## Demo
 
-Watch the implementation here: 
+Watch the implementation here: https://youtu.be/J1L-FTQImUQ
 
   
 ## Learning
